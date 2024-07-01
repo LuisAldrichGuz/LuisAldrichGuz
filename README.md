@@ -30,7 +30,7 @@ Soy desarrollador Full Stack con más de 4 años de experiencia como freelancer,
 
 ## Encuéntrame en línea
 
-[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" width="50" height="50">](https://www.linkedin.com/in/luis-aldrich-guzm%C3%A1n-gonz%C3%A1lez-4751b8279/)
+[<img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" width="50" height="50">](https://www.linkedin.com/in/luis-aldrich-guzm%C3%A1n-gonz%C3%A1lez-4751b8279/)
 [<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/twitter.svg" width="50" height="50">](https://twitter.com/luisaldrichguz)
 [<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/link.svg" width="50" height="50">](https://luisaldrichguz.com/)
 [<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/maildotru.svg" width="50" height="50">](mailto:luisaldrichguz@hotmail.com)
