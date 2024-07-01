@@ -38,10 +38,11 @@ Soy desarrollador Full Stack con más de 4 años de experiencia como freelancer,
 
 ## Encuéntrame en línea
 
-- LinkedIn: [Luis Aldrich Guzmán](https://www.linkedin.com/in/luisaldrichguz/)
-- Sitio Web: [luisaldrichguz.com](http://www.luisaldrichguz.com)
-- Correo Electrónico: luisaldrichguz@hotmail.com
-- Twitter: [@luisaldrichguz](https://twitter.com/luisaldrichguz)
+[![LinkedIn](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg)](https://www.linkedin.com/in/luis-aldrich-guzm%C3%A1n-gonz%C3%A1lez-4751b8279/)
+[![Twitter](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/twitter.svg)](https://twitter.com/luisaldrichguz)
+[![Sitio Web](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/link.svg)](https://luisaldrichguz.com/)
+[![Correo Electrónico](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/maildotru.svg)](mailto:luisaldrichguz@hotmail.com)
 
 ¡No dudes en contactarme para colaboraciones o simplemente para charlar sobre tecnología!
+
 
