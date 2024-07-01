@@ -1,7 +1,5 @@
 # ¡Hola, soy Luis Aldrich Guzmán! 👋
 
-## Acerca de mí
-
 Soy desarrollador Full Stack con más de 4 años de experiencia como freelancer, especializado en el desarrollo de software y páginas web. He trabajado en proyectos que van desde la creación de programas eficientes en terminal hasta el desarrollo de aplicaciones web para el usuario final. Me apasiona la tecnología y disfruto creando soluciones innovadoras.
 
 ## Experiencia destacada
@@ -20,9 +18,8 @@ Soy desarrollador Full Stack con más de 4 años de experiencia como freelancer,
 - **Ingeniería en Sistemas Computacionales** - Estudiante en Instituto Tecnológico de México (2020 - 2025)
 - **Técnico en Soporte y Mantenimiento de Equipo de Computo** - Egresado de DGTI 153 (2017 - 2019)
 - **Certificado en Análisis de Datos** - Google Inroads, 2024
-- **Game Developer & Design** - Conocimientos autodidactas en Python, Java, C#, C++, PHP.
-- Certificado en Microsoft 365
-
+- **Game Developer & Design**
+  
 ## Habilidades
 
 - Desarrollo Full Stack
@@ -30,11 +27,6 @@ Soy desarrollador Full Stack con más de 4 años de experiencia como freelancer,
 - UI/UX
 - Bases de Datos
 - Python, Java, C#, C++, PHP
-
-## Idiomas
-
-- Español: Nativo
-- Inglés: B2
 
 ## Encuéntrame en línea
 
