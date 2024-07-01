@@ -29,8 +29,8 @@ Soy desarrollador Full Stack con más de 4 años de experiencia como freelancer,
 - Python, Java, C#, C++, PHP
 
 ## Encuéntrame en línea
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" />
 
-## Encuéntrame en línea
 
 <p align="center">
   <a href="https://www.linkedin.com/in/luis-aldrich-guzm%C3%A1n-gonz%C3%A1lez-4751b8279/" target="_blank" rel="noopener noreferrer"><i class="fab fa-linkedin fa-3x"></i></a>&nbsp;&nbsp;
