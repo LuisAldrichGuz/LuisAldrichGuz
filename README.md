@@ -30,11 +30,14 @@ Soy desarrollador Full Stack con más de 4 años de experiencia como freelancer,
 
 ## Encuéntrame en línea
 
-[<img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" width="50" height="50">](https://www.linkedin.com/in/luis-aldrich-guzm%C3%A1n-gonz%C3%A1lez-4751b8279/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" width="50" height="50">](https://twitter.com/luisaldrichguz)
-[<img src="https://pbs.twimg.com/profile_images/1491547535030300675/lxRDOfXM_400x400.jpg" width="50" height="50">](https://luisaldrichguz.com/)
-[<img src="https://cdn.icon-icons.com/icons2/1488/PNG/512/5382-outlook_102516.png" width="50" height="50">](mailto:luisaldrichguz@hotmail.com)
+<div align="center">
 
+[<img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" width="50" height="50" target="_blank">](https://www.linkedin.com/in/luis-aldrich-guzm%C3%A1n-gonz%C3%A1lez-4751b8279/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" width="50" height="50" target="_blank">](https://twitter.com/luisaldrichguz)
+[<img src="https://pbs.twimg.com/profile_images/1491547535030300675/lxRDOfXM_400x400.jpg" width="50" height="50" target="_blank">](https://luisaldrichguz.com/)
+[<img src="https://cdn.icon-icons.com/icons2/1488/PNG/512/5382-outlook_102516.png" width="50" height="50" target="_blank">](mailto:luisaldrichguz@hotmail.com)
+
+</div>
 
 
 ¡No dudes en contactarme para colaboraciones o simplemente para charlar sobre tecnología!
