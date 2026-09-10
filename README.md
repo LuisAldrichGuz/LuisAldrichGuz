@@ -1,71 +1,66 @@
 <div align="center">
 
-<a href="https://luisaldrichguz.net"><img src="https://luisaldrichguz.net/github/banner.svg?v=2" alt="Luis Aldrich Guzmán · LuisAldrichGuz · Full Stack Developer · Ciudad de México" width="900" /></a>
+<a href="https://luisaldrichguz.net"><img src="https://luisaldrichguz.net/github/banner.svg?v=3" alt="Luis Aldrich Guzmán · LuisAldrichGuz · Full Stack Developer · Ciudad de México · luisaldrichguz.net" width="900" /></a>
 
-<img src="https://luisaldrichguz.net/github/roles.svg?v=2" alt="Director del Área de Tecnología · SEDECO CDMX / Fundador de Whools / Web, móvil y videojuegos / Mi portafolio es un juego 3D jugable" width="900" />
+<img src="https://luisaldrichguz.net/github/roles.svg?v=3" alt="Director del Área de Tecnología · SEDECO CDMX / Fundador de Whools / Web, móvil y videojuegos / Mi portafolio es un juego 3D jugable" width="900" />
 
-**[luisaldrichguz.net](https://luisaldrichguz.net)** · [SEDECO CDMX](https://www.sedeco.cdmx.gob.mx/secretaria/estructura/442) · [Whools](https://whools.tech) · [LinkedIn](https://www.linkedin.com/in/luis-aldrich-guzm%C3%A1n-4751b8279/) · [X](https://x.com/LuisAldrichGuz) · [luisaldrichguz@hotmail.com](mailto:luisaldrichguz@hotmail.com)
+**[Portafolio](https://luisaldrichguz.net)** · [SEDECO CDMX](https://www.sedeco.cdmx.gob.mx/secretaria/estructura/442) · [Whools](https://whools.tech) · [LinkedIn](https://www.linkedin.com/in/luis-aldrich-guzm%C3%A1n-4751b8279/) · [X](https://x.com/LuisAldrichGuz) · [Correo](mailto:luisaldrichguz@hotmail.com)
 
 </div>
 
-> **Luis Aldrich Guzmán**, conocido en línea como **LuisAldrichGuz**.
-> Full Stack Developer en Ciudad de México.
->
-> *Full Stack Developer based in Mexico City, with 4+ years building web
-> applications for the public sector and private clients. Currently Technology
-> Advisor to the Secretary and Head of the Technology Department at Mexico
-> City's Ministry of Economic Development (SEDECO). Founder of Whools.*
+*Technology Advisor to the Secretary and Head of the Technology Department at
+Mexico City's Ministry of Economic Development (SEDECO). Founder of Whools.
+4+ years building web applications for the public sector and private clients.*
 
 ---
 
 ## Quién soy
 
-Más de **cuatro años** construyendo aplicaciones web y software, para el sector
-público y para clientes privados. Full Stack: web, móvil y videojuegos. Backend
-y frontend, y lo que hay debajo — desplegar, mantener el servidor de pie y que
-la cosa aguante.
+Más de **cuatro años** construyendo software: gobierno de la CDMX y clientes
+privados. Lo que me gusta es la parte de abajo — desplegar, mantener el
+servidor de pie y que la cosa aguante cuando entra gente.
 
-**[Mi portafolio](https://luisaldrichguz.net) corre en mi propio servidor**, y su
-página de inicio es un juego 3D que se juega en el navegador: React Three Fiber,
-física con Rapier, multijugador por WebSocket y un editor de escenas dentro.
+**[Mi portafolio](https://luisaldrichguz.net) corre en mi propio servidor**:
+React Three Fiber con física en Rapier, multijugador por WebSocket, un editor
+de escenas dentro, FastAPI y PostgreSQL detrás, y Caddy delante.
 
-Y sí — **estas imágenes también las sirve ese server**. Ni una depende de un
-servicio de terceros: mientras el server esté en pie, esto se ve.
+Y **estas imágenes también las sirve ese server** — el banner es el mismo
+loader del cubo que usa el sitio. Ni una depende de un servicio ajeno.
 
 ## Dónde trabajo
 
-| Dónde | Qué hago | Desde |
+| Dónde | Qué hago | Cuándo |
 |---|---|---|
-| **[Secretaría de Desarrollo Económico de la CDMX](https://www.sedeco.cdmx.gob.mx/secretaria/estructura/442)** | Asesor de la Secretaria en temas tecnológicos y Director del Área de Tecnología | 2026 |
-| **[Whools](https://whools.tech)** | Fundador — startup y comunidad de programadores abierta | 2020 |
+| **[SEDECO CDMX](https://www.sedeco.cdmx.gob.mx/secretaria/estructura/442)** | Asesor de la Secretaria en temas tecnológicos y Director del Área de Tecnología | 2026 — hoy |
+| **[Whools](https://whools.tech)** | Fundador — startup y comunidad de programadores abierta | 2020 — hoy |
+| Agencia Digital de Innovación Pública | Desarrollador Líder en Equipos de Programación | 2025 — 2026 |
+| Microsoft Learn | Student Ambassador | 2021 — 2024 |
 
-Antes: **Agencia Digital de Innovación Pública** (2025–2026, Desarrollador Líder)
-y **Microsoft Learn** (2021–2024, Student Ambassador).
-
-→ [Toda la trayectoria, con los proyectos de cada sitio](https://luisaldrichguz.net/experience)
+→ [La trayectoria completa, con los proyectos de cada sitio](https://luisaldrichguz.net/experience)
 
 ## Lo que uso
 
 <div align="center">
 
-<img src="https://luisaldrichguz.net/github/stack.svg?v=2" alt="Stack: frontend (React, TypeScript, Angular, Vue, Tailwind, Three.js), backend (Node.js, Django, FastAPI, Java, Spring, Laravel, PHP), datos (PostgreSQL, MySQL, MongoDB, Firebase, Oracle), juegos e infraestructura (Unity, C#, Blender, Docker, Linux, Git)" width="900" />
+<img src="https://luisaldrichguz.net/github/stack.svg?v=3" alt="Stack — Frontend: React, TypeScript, JavaScript, Angular, Vue, Tailwind, Three.js · Backend: Node.js, Django, FastAPI, Flask, Java, Spring, Laravel, PHP · Datos: PostgreSQL, MySQL, MariaDB, MongoDB, Firebase, Oracle · Juegos: Unity, C#, Blender, Flutter, Roblox · Infra: Docker, Linux, Git, AWS, Figma" width="900" />
 
 </div>
 
-Más: **GitLab CI/CD**, entornos **Linux** y análisis de datos (certificado por Google).
+Y lo que no tiene logo: **GitLab CI/CD**, administración de **Linux** y análisis
+de datos (certificado por Google).
 
 → [Mi stack completo, planeta por planeta](https://luisaldrichguz.net/about)
 
 ## Lo que he construido
 
-**En gobierno** — CDMX
+**Gobierno de la Ciudad de México**
 
 | Proyecto | De qué va |
 |---|---|
 | [**Internet para todos**](https://luisaldrichguz.net/work-projects/Internet-para-todos) | Mapa de los puntos de WiFi gratuito de la CDMX. El único de gobierno que usa la gente y no un funcionario. |
 | [**SISCOVIP**](https://luisaldrichguz.net/work-projects/SISCOVIP) | Permisos digitales para el comercio en la vía pública, del carrito de tacos al tianguis. |
 | [**Sistema de Atención Ciudadana**](https://luisaldrichguz.net/work-projects/SAC) | El canal por el que una solicitud ciudadana llega a la Jefatura de Gobierno y baja a quien puede resolverla. |
-| [**ABC Conectividad**](https://luisaldrichguz.net/work-projects/ABC) | Contratación de internet para las dependencias del Gobierno de la CDMX, sin papeleo. Mi primer proyecto en gobierno. |
+| [**ABC Conectividad**](https://luisaldrichguz.net/work-projects/ABC) | Contratación de internet para las dependencias, sin papeleo. Mi primer proyecto en gobierno. |
 | [**SuperTaiga**](https://luisaldrichguz.net/work-projects/SuperTaiga) | Módulo que le añade a Taiga los diagramas de Gantt y la vista de equipo que le faltaban. |
 
 **Videojuegos y cosas mías**
@@ -86,11 +81,3 @@ Más: **GitLab CI/CD**, entornos **Linux** y análisis de datos (certificado por
 - [**React vs Angular**](https://luisaldrichguz.net/blog/react-vs-angular) — la comparativa, con lo que cada uno cuesta de verdad.
 
 → [El blog](https://luisaldrichguz.net/blog)
-
----
-
-<div align="center">
-
-**Luis Aldrich Guzmán** · `LuisAldrichGuz` · Ciudad de México
-
-</div>
