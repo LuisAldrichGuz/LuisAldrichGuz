@@ -42,7 +42,12 @@ loader del cubo que usa el sitio. Ni una depende de un servicio ajeno.
 
 <div align="center">
 
-<img src="https://luisaldrichguz.net/github/stack.svg?v=3" alt="Stack — Frontend: React, TypeScript, JavaScript, Angular, Vue, Tailwind, Three.js · Backend: Node.js, Django, FastAPI, Flask, Java, Spring, Laravel, PHP · Datos: PostgreSQL, MySQL, MariaDB, MongoDB, Firebase, Oracle · Juegos: Unity, C#, Blender, Flutter, Roblox · Infra: Docker, Linux, Git, AWS, Figma" width="900" />
+<!-- Dos tintas del mismo dibujo: los logos van sin fondo, así que en el tema
+     claro de GitHub unos logos blancos no se verían. -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://luisaldrichguz.net/github/stack.svg?v=4" />
+  <img src="https://luisaldrichguz.net/github/stack-claro.svg?v=4" alt="Stack — Frontend: React, TypeScript, JavaScript, Angular, Vue, Tailwind, Three.js · Backend: Node.js, Django, FastAPI, Flask, Java, Spring, Laravel, PHP · Datos: PostgreSQL, MySQL, MariaDB, MongoDB, Firebase, Oracle · Juegos: Unity, C#, Blender, Flutter, Roblox · Infra: Docker, Linux, Git, AWS, Figma" width="900" />
+</picture>
 
 </div>
 
