@@ -1,8 +1,8 @@
 <div align="center">
 
-<a href="https://luisaldrichguz.net"><img src="https://luisaldrichguz.net/github/banner.svg" alt="Luis Aldrich Guzmán · LuisAldrichGuz · Full Stack Developer · Ciudad de México" width="900" /></a>
+<a href="https://luisaldrichguz.net"><img src="https://luisaldrichguz.net/github/banner.svg?v=2" alt="Luis Aldrich Guzmán · LuisAldrichGuz · Full Stack Developer · Ciudad de México" width="900" /></a>
 
-<img src="https://luisaldrichguz.net/github/roles.svg" alt="Director del Área de Tecnología · SEDECO CDMX / Fundador de Whools / Web, móvil y videojuegos / Mi portafolio es un juego 3D jugable" width="900" />
+<img src="https://luisaldrichguz.net/github/roles.svg?v=2" alt="Director del Área de Tecnología · SEDECO CDMX / Fundador de Whools / Web, móvil y videojuegos / Mi portafolio es un juego 3D jugable" width="900" />
 
 **[luisaldrichguz.net](https://luisaldrichguz.net)** · [SEDECO CDMX](https://www.sedeco.cdmx.gob.mx/secretaria/estructura/442) · [Whools](https://whools.tech) · [LinkedIn](https://www.linkedin.com/in/luis-aldrich-guzm%C3%A1n-4751b8279/) · [X](https://x.com/LuisAldrichGuz) · [luisaldrichguz@hotmail.com](mailto:luisaldrichguz@hotmail.com)
 
@@ -48,7 +48,7 @@ y **Microsoft Learn** (2021–2024, Student Ambassador).
 
 <div align="center">
 
-<img src="https://luisaldrichguz.net/github/stack.svg" alt="Stack: frontend (React, TypeScript, Angular, Vue, Tailwind, Three.js), backend (Node.js, Django, FastAPI, Java, Spring, Laravel, PHP), datos (PostgreSQL, MySQL, MongoDB, Firebase, Oracle), juegos e infraestructura (Unity, C#, Blender, Docker, Linux, Git)" width="900" />
+<img src="https://luisaldrichguz.net/github/stack.svg?v=2" alt="Stack: frontend (React, TypeScript, Angular, Vue, Tailwind, Three.js), backend (Node.js, Django, FastAPI, Java, Spring, Laravel, PHP), datos (PostgreSQL, MySQL, MongoDB, Firebase, Oracle), juegos e infraestructura (Unity, C#, Blender, Docker, Linux, Git)" width="900" />
 
 </div>
 
