@@ -1,18 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b090a,60:6d0012,100:c8102e&height=210&section=header&text=LuisAldrichGuz&fontSize=56&fontColor=f9f9f9&fontAlignY=36&animation=fadeIn&desc=Luis%20Aldrich%20Guzm%C3%A1n%20%C2%B7%20Full%20Stack%20Developer&descSize=18&descAlignY=56" alt="Luis Aldrich Guzmán — LuisAldrichGuz" />
+<a href="https://luisaldrichguz.net"><img src="https://luisaldrichguz.net/github/banner.svg" alt="Luis Aldrich Guzmán · LuisAldrichGuz · Full Stack Developer · Ciudad de México" width="900" /></a>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=15&duration=3600&pause=900&color=C8102E&center=true&vCenter=true&width=820&height=70&lines=Director+del+%C3%81rea+de+Tecnolog%C3%ADa+%C2%B7+SEDECO+CDMX;Fundador+de+Whools;Web%2C+m%C3%B3vil+y+videojuegos;Mi+portafolio+es+un+juego+3D+jugable" alt="Director del Área de Tecnología · SEDECO CDMX / Fundador de Whools / Web, móvil y videojuegos" />
+<img src="https://luisaldrichguz.net/github/roles.svg" alt="Director del Área de Tecnología · SEDECO CDMX / Fundador de Whools / Web, móvil y videojuegos / Mi portafolio es un juego 3D jugable" width="900" />
 
-<br />
-
-[![Portafolio](https://img.shields.io/badge/luisaldrichguz.net-c8102e?style=for-the-badge&logo=firefox&logoColor=white)](https://luisaldrichguz.net)
-[![SEDECO CDMX](https://img.shields.io/badge/SEDECO_CDMX-0b090a?style=for-the-badge&logoColor=white)](https://www.sedeco.cdmx.gob.mx/secretaria/estructura/442)
-[![Whools](https://img.shields.io/badge/Whools-161a1d?style=for-the-badge)](https://whools.tech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0b090a?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-aldrich-guzm%C3%A1n-4751b8279/)
-[![X](https://img.shields.io/badge/@LuisAldrichGuz-0b090a?style=for-the-badge&logo=x&logoColor=white)](https://x.com/LuisAldrichGuz)
-
-<img src="https://komarev.com/ghpvc/?username=LuisAldrichGuz&color=c8102e&style=flat-square&label=visitas+al+perfil" alt="Visitas al perfil" />
+**[luisaldrichguz.net](https://luisaldrichguz.net)** · [SEDECO CDMX](https://www.sedeco.cdmx.gob.mx/secretaria/estructura/442) · [Whools](https://whools.tech) · [LinkedIn](https://www.linkedin.com/in/luis-aldrich-guzm%C3%A1n-4751b8279/) · [X](https://x.com/LuisAldrichGuz) · [luisaldrichguz@hotmail.com](mailto:luisaldrichguz@hotmail.com)
 
 </div>
 
@@ -37,6 +29,9 @@ la cosa aguante.
 página de inicio es un juego 3D que se juega en el navegador: React Three Fiber,
 física con Rapier, multijugador por WebSocket y un editor de escenas dentro.
 
+Y sí — **estas imágenes también las sirve ese server**. Ni una depende de un
+servicio de terceros: mientras el server esté en pie, esto se ve.
+
 ## Dónde trabajo
 
 | Dónde | Qué hago | Desde |
@@ -53,17 +48,7 @@ y **Microsoft Learn** (2021–2024, Student Ambassador).
 
 <div align="center">
 
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,ts,js,angular,vue,tailwind,threejs&theme=dark" alt="React, TypeScript, JavaScript, Angular, Vue, Tailwind, Three.js" />
-
-**Backend y datos**
-
-<img src="https://skillicons.dev/icons?i=nodejs,django,fastapi,flask,java,spring,php,laravel,postgres,mysql,mongodb,firebase&theme=dark" alt="Node.js, Django, FastAPI, Flask, Java, Spring Boot, PHP, Laravel, PostgreSQL, MySQL, MongoDB, Firebase" />
-
-**Juegos, móvil e infra**
-
-<img src="https://skillicons.dev/icons?i=unity,cs,blender,flutter,react,docker,linux,git,figma&theme=dark" alt="Unity, C#, Blender, Flutter, React Native, Docker, Linux, Git, Figma" />
+<img src="https://luisaldrichguz.net/github/stack.svg" alt="Stack: frontend (React, TypeScript, Angular, Vue, Tailwind, Three.js), backend (Node.js, Django, FastAPI, Java, Spring, Laravel, PHP), datos (PostgreSQL, MySQL, MongoDB, Firebase, Oracle), juegos e infraestructura (Unity, C#, Blender, Docker, Linux, Git)" width="900" />
 
 </div>
 
@@ -102,30 +87,9 @@ Más: **GitLab CI/CD**, entornos **Linux** y análisis de datos (certificado por
 
 → [El blog](https://luisaldrichguz.net/blog)
 
-## Números
+---
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=LuisAldrichGuz&hide_border=true&background=0b090a&stroke=161a1d&ring=c8102e&fire=c8102e&currStreakLabel=c8102e&sideLabels=d3d3d3&currStreakNum=f9f9f9&sideNums=f9f9f9&dates=6f6f6f" alt="Racha de commits" />
-
-<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LuisAldrichGuz&theme=github_dark" alt="Repositorios por lenguaje" />
-<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LuisAldrichGuz&theme=github_dark" alt="Lenguajes con más commits" />
-
-[![Seguidores](https://img.shields.io/github/followers/LuisAldrichGuz?style=for-the-badge&color=c8102e&labelColor=0b090a&label=seguidores)](https://github.com/LuisAldrichGuz?tab=followers)
-[![Estrellas](https://img.shields.io/github/stars/LuisAldrichGuz?style=for-the-badge&color=c8102e&labelColor=0b090a&label=estrellas)](https://github.com/LuisAldrichGuz?tab=repositories)
-
-</div>
-
-## Dónde encontrarme
-
-- **Portafolio** — [luisaldrichguz.net](https://luisaldrichguz.net)
-- **Correo** — [luisaldrichguz@hotmail.com](mailto:luisaldrichguz@hotmail.com)
-- **Comunidad** — [whools.tech](https://whools.tech)
-- **LinkedIn** — [Luis Aldrich Guzmán](https://www.linkedin.com/in/luis-aldrich-guzm%C3%A1n-4751b8279/)
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c8102e,40:6d0012,100:0b090a&height=110&section=footer" alt="" />
 
 **Luis Aldrich Guzmán** · `LuisAldrichGuz` · Ciudad de México
 
