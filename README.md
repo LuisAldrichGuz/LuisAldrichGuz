@@ -58,27 +58,35 @@ de datos (certificado por Google).
 
 ## Lo que he construido
 
-**Gobierno de la Ciudad de México**
+> Si solo vas a mirar uno: **[GEdims](https://luisaldrichguz.net/work-projects/GEdims)**, la
+> plataforma de trámites del Gobierno de la Ciudad de México — está en producción en
+> [serviciosdigitales.cdmx.gob.mx](https://serviciosdigitales.cdmx.gob.mx/).
+
+**Gobierno de la Ciudad de México** — de lo más grande a lo más chico
 
 | Proyecto | De qué va |
 |---|---|
-| [**Internet para todos**](https://luisaldrichguz.net/work-projects/Internet-para-todos) | Mapa de los puntos de WiFi gratuito de la CDMX. El único de gobierno que usa la gente y no un funcionario. |
-| [**SISCOVIP**](https://luisaldrichguz.net/work-projects/SISCOVIP) | Permisos digitales para el comercio en la vía pública, del carrito de tacos al tianguis. |
-| [**Sistema de Atención Ciudadana**](https://luisaldrichguz.net/work-projects/SAC) | El canal por el que una solicitud ciudadana llega a la Jefatura de Gobierno y baja a quien puede resolverla. |
+| [**GEdims**](https://luisaldrichguz.net/work-projects/GEdims) · [en producción](https://serviciosdigitales.cdmx.gob.mx/) | La plataforma por la que **cualquier dependencia del Gobierno de la CDMX publica su trámite en línea**, con firma electrónica y sin escribir una línea de código. Está viva en `serviciosdigitales.cdmx.gob.mx`. |
+| [**Internet para todos**](https://luisaldrichguz.net/work-projects/Internet-para-todos) | El mapa del WiFi gratuito de la ciudad: **35 350 puntos y 1 270 550 personas conectadas a la vez**. Récord Guinness a la ciudad más conectada del mundo. |
+| [**SuperTaiga**](https://luisaldrichguz.net/work-projects/SuperTaiga) | Los diagramas de Gantt y la vista de equipo que a Taiga le faltaban. **116 proyectos de gobierno** se siguen desde ahí. Backend y frontend, los dos míos. |
+| [**Sistema de Atención Ciudadana**](https://luisaldrichguz.net/work-projects/SAC) | El canal por el que una solicitud ciudadana llega a la **Jefatura de Gobierno** y baja a quien puede resolverla. |
+| [**Template React CDMX**](https://luisaldrichguz.net/work-projects/template-react-cdmx) | La base con la que se hacen **todas las aplicaciones de React de la Agencia**. La escribí entera yo y la mantuve hasta que salí. |
+| [**Mapa de Mercados Públicos**](https://luisaldrichguz.net/work-projects/mercados-cdmx) | Los **340 mercados públicos** de la ciudad en un mapa: en qué estado están, qué necesitan y cuáles se atienden primero. |
 | [**ABC Conectividad**](https://luisaldrichguz.net/work-projects/ABC) | Contratación de internet para las dependencias, sin papeleo. Mi primer proyecto en gobierno. |
-| [**SuperTaiga**](https://luisaldrichguz.net/work-projects/SuperTaiga) | Módulo que le añade a Taiga los diagramas de Gantt y la vista de equipo que le faltaban. |
+| [**SISCOVIP**](https://luisaldrichguz.net/work-projects/SISCOVIP) | Permisos digitales para el comercio en la vía pública, del carrito de tacos al tianguis. |
+| [**Amar es Adoptar**](https://luisaldrichguz.net/work-projects/amar-es-adoptar) | El catálogo de perritos en adopción de la SEDEMA, con la solicitud completa sin pasar por ventanilla. |
 
 **Videojuegos y cosas mías**
 
 | Proyecto | De qué va |
 |---|---|
-| [**GOTCHI!**](https://luisaldrichguz.net/projects/gotchi) | Mascota virtual en Unity que no se acaba a los treinta minutos. Un solo pago, sin tienda dentro. |
+| [**GOTCHI!**](https://luisaldrichguz.net/projects/gotchi) · [jugar](https://gotchi.luisaldrichguz.net/) | Mascota virtual en Unity que no se acaba a los treinta minutos. Un solo pago, sin tienda dentro. |
 | [**HELL ON EARTH**](https://luisaldrichguz.net/projects/hell-on-earth) | Metroidvania con combate al ritmo de la música, mundo en voxels y personajes en pixel art. |
 | [**SPACE ACADEMY**](https://luisaldrichguz.net/projects/space-academy) | Sistema solar a escala real en VR, con una IA que te resuelve dudas mientras estás de pie en Marte. |
 | [**Minijuegos para la rehabilitación**](https://luisaldrichguz.net/projects/rehabilitation-mini-games) | Minijuegos para pacientes con Parkinson. El proyecto con el que me titulé. |
 | [**PLAYER-VERSE**](https://luisaldrichguz.net/projects/player-verse) | Red social para gente que juega. Me consiguió mi primera oferta de trabajo y una lección sobre trabajar gratis. |
+| [**Whools**](https://luisaldrichguz.net/work-projects/whools) · [whools.tech](https://whools.tech) | La startup y su comunidad: sin lista de espera, sin filtros y sin pizarrón. |
 | [**ITIZ en Roblox**](https://luisaldrichguz.net/work-projects/itiz-roblox) | Reconstruí mi universidad entera en Roblox para los que llevaban tres años sin poder pisarla. |
-| [**Whools**](https://luisaldrichguz.net/work-projects/whools) | La startup y su comunidad: sin lista de espera, sin filtros y sin pizarrón. |
 
 ## Escribo
 
